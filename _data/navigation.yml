@@ -1,0 +1,14 @@
+# main links
+main:
+  - title: "Home"
+    url: http://127.0.0.1:4000
+  - title: "Blog"
+    url: 
+  - title: "About"
+    url: https://instagram.com/p0rkan0x
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
